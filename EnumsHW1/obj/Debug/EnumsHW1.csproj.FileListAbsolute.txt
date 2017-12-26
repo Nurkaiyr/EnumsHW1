@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW1\EnumsHW1\obj\Debug\EnumsHW1.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW1\EnumsHW1\bin\Debug\EnumsHW1.exe.config
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW1\EnumsHW1\bin\Debug\EnumsHW1.exe
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW1\EnumsHW1\bin\Debug\EnumsHW1.pdb
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW1\EnumsHW1\obj\Debug\EnumsHW1.exe
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW1\EnumsHW1\obj\Debug\EnumsHW1.pdb
